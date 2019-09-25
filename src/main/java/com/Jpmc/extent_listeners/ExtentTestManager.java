@@ -10,9 +10,6 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 
 import java.io.IOException;
 
-/**
- * Created by Musti on 20/09/2019.
- */
 public class ExtentTestManager {
 
     public static ThreadLocal<ExtentTest> testReport = new ThreadLocal<ExtentTest>();

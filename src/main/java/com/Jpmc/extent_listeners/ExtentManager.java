@@ -12,9 +12,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Date;
 
-/**
- * Created by Musti on 20/09/2019.
- */
 public class ExtentManager {
 
     static ExtentReports extent;

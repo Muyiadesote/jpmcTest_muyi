@@ -8,9 +8,7 @@ import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by Musti on 19/09/2019.
- */
+
 public abstract class BasePage<T> {
 
     protected WebDriver driver;
