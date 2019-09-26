@@ -45,7 +45,7 @@ public class BaseSteps {
         if (System.getProperty("os.name").equalsIgnoreCase("Mac OS X")) { // pls replace the "Mac OS X" with Mac PC's OS i.e. "Mac OS X"
 
             DriverFactory.setChromeDriverExePath(
-                    System.getProperty("user.dir") + "//src//test//resources//executables//chromedriverMac_76.0");
+                    System.getProperty("user.dir") + "//src//test//resources//executables//chromedriverMac_77.0");
 //            DriverFactory.setGeckoDriverExePath(
 //                    System.getProperty("user.dir") + "//src//test//resources//executables//geckodriverMac_0.25");
 

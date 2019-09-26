@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dfc61d-1a31-409d-9e0b-d30923c29a62" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Jpmc/extent_listeners/ExtentManager.class" afterPath="$PROJECT_DIR$/target/classes/com/Jpmc/extent_listeners/ExtentManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Jpmc/extent_listeners/ExtentTestManager.class" afterPath="$PROJECT_DIR$/target/classes/com/Jpmc/extent_listeners/ExtentTestManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Jpmc/page_objects/BasePage.class" afterPath="$PROJECT_DIR$/target/classes/com/Jpmc/page_objects/BasePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/Jpmc/step_definition/VerifyNewsTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/Jpmc/step_definition/VerifyNewsTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/BasePage.java" afterPath="$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/BasePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/NewsHeadline" afterPath="$PROJECT_DIR$/src/test/resources/NewsHeadline" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/logs/applog.txt" afterPath="$PROJECT_DIR$/src/test/resources/logs/applog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/NewsHeadline" afterPath="$PROJECT_DIR$/target/test-classes/NewsHeadline" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/logs/applog.txt" afterPath="$PROJECT_DIR$/target/test-classes/logs/applog.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,10 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseSteps.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BaseSteps.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="289">
               <caret line="44" column="68" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="68" />
               <folding />
             </state>
@@ -100,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applog.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="applog.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/logs/applog.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -404,20 +390,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="page_objects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jpmcTest_muyi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jpmcTest_muyi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reports" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1015,7 +987,7 @@
       <updated>1569352624531</updated>
       <workItem from="1569352636195" duration="6547000" />
       <workItem from="1569361069808" duration="1465000" />
-      <workItem from="1569432030945" duration="6323000" />
+      <workItem from="1569432030945" duration="6585000" />
     </task>
     <servers />
   </component>
@@ -1052,7 +1024,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14335000" />
+    <option name="totallyTimeSpent" value="14597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1065,6 +1037,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1074,14 +1047,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7880342" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31770045" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31770045" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1394,14 +1367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="44" column="68" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1459,6 +1424,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="44" column="68" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="68" />
           <folding />
         </state>
       </provider>
