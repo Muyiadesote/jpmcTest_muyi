@@ -1,3 +1,3 @@
-INFO    2019-09-25 21:23:36,280 [main] com.Jpmc.step_definition.BaseSteps  - Config properties file loaded
-INFO    2019-09-25 21:23:44,284 [main] com.Jpmc.step_definition.BaseSteps  - Driver Initialized !!!
-INFO    2019-09-25 21:24:09,991 [main] com.Jpmc.step_definition.BaseSteps  - Test Execution Completed !!!
+INFO    2019-09-26 21:50:09,717 [main] com.Jpmc.step_definition.BaseSteps  - Config properties file loaded
+INFO    2019-09-26 21:50:15,207 [main] com.Jpmc.step_definition.BaseSteps  - Driver Initialized !!!
+INFO    2019-09-26 21:50:37,004 [main] com.Jpmc.step_definition.BaseSteps  - Test Execution Completed !!!

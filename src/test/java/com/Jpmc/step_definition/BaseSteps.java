@@ -54,8 +54,8 @@ public class BaseSteps {
 
             DriverFactory.setChromeDriverExePath(
                     System.getProperty("user.dir") + "//src//test//resources//executables//chromedriverWin_76.0.exe");
-//            DriverFactory.setGeckoDriverExePath(
-//                    System.getProperty("user.dir") + "//src//test//resources//executables//geckodriverWin_0.25.exe");
+            DriverFactory.setGeckoDriverExePath(
+                    System.getProperty("user.dir") + "//src//test//resources//executables//geckodriverWin_0.25.exe");
         }
 		/*
 		 * Initialize properties Initialize logs load executables
