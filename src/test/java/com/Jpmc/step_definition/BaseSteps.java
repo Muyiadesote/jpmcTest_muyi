@@ -46,14 +46,14 @@ public class BaseSteps {
 
             DriverFactory.setChromeDriverExePath(
                     System.getProperty("user.dir") + "//src//test//resources//executables//chromedriverMac_77.0");
-//            DriverFactory.setGeckoDriverExePath(
-//                    System.getProperty("user.dir") + "//src//test//resources//executables//geckodriverMac_0.25");
+            DriverFactory.setGeckoDriverExePath(
+                    System.getProperty("user.dir") + "//src//test//resources//executables//geckodriverMac_0.25");
 
         }else {
 
 
             DriverFactory.setChromeDriverExePath(
-                    System.getProperty("user.dir") + "//src//test//resources//executables//chromedriverWin_76.0.exe");
+                    System.getProperty("user.dir") + "//src//test//resources//executables//chromedriverWin_77.0.exe");
             DriverFactory.setGeckoDriverExePath(
                     System.getProperty("user.dir") + "//src//test//resources//executables//geckodriverWin_0.25.exe");
         }
