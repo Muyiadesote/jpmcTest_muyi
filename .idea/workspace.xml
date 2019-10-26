@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dfc61d-1a31-409d-9e0b-d30923c29a62" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/executables/chromedriverWin_76.0.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/executables/chromedriverWin_76.0.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/Extent_Thu_Sep_26_21_51_58_BST_2019.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/Thu_Sep_26_21_52_25_BST_2019_1.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Jpmc/page_objects/VerifyNewsPage.class" afterPath="$PROJECT_DIR$/target/classes/com/Jpmc/page_objects/VerifyNewsPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/Jpmc/step_definition/BaseSteps.class" afterPath="$PROJECT_DIR$/target/test-classes/com/Jpmc/step_definition/BaseSteps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/Jpmc/step_definition/VerifyNewsTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/Jpmc/step_definition/VerifyNewsTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java" afterPath="$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jpmcTest_muyi.iml" afterPath="$PROJECT_DIR$/jpmcTest_muyi.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/NewsHeadline" afterPath="$PROJECT_DIR$/src/test/resources/NewsHeadline" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/logs/applog.txt" afterPath="$PROJECT_DIR$/src/test/resources/logs/applog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/NewsHeadline" afterPath="$PROJECT_DIR$/target/test-classes/NewsHeadline" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/logs/applog.txt" afterPath="$PROJECT_DIR$/target/test-classes/logs/applog.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,11 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyNewsTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VerifyNewsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/VerifyNewsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+            <state relative-caret-position="510">
+              <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+              <folding>
+                <marker date="1571818367986" expanded="true" signature="1773:1779" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -54,21 +66,9 @@
       <file leaf-file-name="verifyNews.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/verifyNews.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifyNewsRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/runners/VerifyNewsRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -76,51 +76,24 @@
       <file leaf-file-name="VerifyNewsPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#3102#3103#0" expanded="false" />
+                <element signature="e#3149#3150#0" expanded="false" />
+                <element signature="e#5001#5002#0" expanded="false" />
+                <element signature="e#5066#5067#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseSteps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extent_Thu_Sep_26_21_51_58_BST_2019.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reports/Extent_Thu_Sep_26_21_51_58_BST_2019.html">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/properties/config.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applog.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/logs/applog.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -139,6 +112,7 @@
     <findStrings>
       <find>false</find>
       <find>fal</find>
+      <find>ExtentTestManage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,9 +144,9 @@
         <option value="$PROJECT_DIR$/src/test/resources/logs/applog.txt" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/resources/features/verifyNews.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/VerifyNewsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/VerifyNewsTest.java" />
       </list>
     </option>
   </component>
@@ -218,10 +192,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
-    <option name="width" value="1378" />
-    <option name="height" value="733" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -239,8 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -272,6 +244,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jpmcTest_muyi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jpmcTest_muyi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="properties" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -477,6 +475,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -486,6 +486,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New Framework_Selenium/fcms" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -511,39 +512,6 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.VerifyNewsRunner">
-    <configuration default="false" name="verifyNewsRunner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Jpmc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="jpmcTest_muyi" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="Jpmc" />
-      <option name="MAIN_CLASS_NAME" value="Jpmc.verifyNewsRunner" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="false" name="VerifyNewsRunner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -615,6 +583,54 @@
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^To validate the headline news retrieved from guardian news with other resources on google$&quot;" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jpmcTest_muyi" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Feature: verifyNews" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/features/verifyNews.feature" />
+      <option name="GLUE" value="com.Jpmc.step_definition" />
+      <option name="myNameFilter" value="" />
+      <option name="myGeneratedName" value="Feature: verifyNews" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jpmcTest_muyi" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scenario: Launch guardian news website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/features/verifyNews.feature" />
+      <option name="GLUE" value="com.Jpmc.step_definition" />
+      <option name="myNameFilter" value="^Launch guardian news website$" />
+      <option name="myGeneratedName" value="Scenario: Launch guardian news website" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Launch guardian news website$&quot;" />
       <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -1044,18 +1060,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.verifyNewsRunner" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.VerifyNewsRunner" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="TestNG.VerifyNewsRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: verifyNews" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber java.Scenario: Launch guardian news website" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.VerifyNewsRunner" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.verifyNewsRunner" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Scenario: Launch guardian news website" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber java.Feature: verifyNews" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber java.Scenario: To validate the headline news retrieved from guardian news with other resources on google" />
       </list>
     </recent_temporary>
   </component>
@@ -1073,25 +1091,27 @@
       <workItem from="1569361069808" duration="1465000" />
       <workItem from="1569432030945" duration="6585000" />
       <workItem from="1569515845005" duration="5952000" />
-      <workItem from="1569569888724" duration="1320000" />
+      <workItem from="1569569888724" duration="3359000" />
+      <workItem from="1569767109931" duration="97000" />
+      <workItem from="1569781921497" duration="52000" />
+      <workItem from="1569964256355" duration="727000" />
+      <workItem from="1571814975588" duration="3729000" />
+      <workItem from="1572093679656" duration="6729000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__To_validate_the_headline_news_retrieved_from_guardian_news_with_other_resources_on_google_(1) - 2019.09.26 at 21h 32m 51s.xml">
-      <configuration name="Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__verifyNews - 2019.10.23 at 08h 36m 29s.xml">
+      <configuration name="Feature: verifyNews" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_validate_the_headline_news_retrieved_from_guardian_news_with_other_resources_on_google_(1) - 2019.09.26 at 21h 48m 29s.xml">
-      <configuration name="Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__verifyNews - 2019.10.23 at 08h 54m 52s.xml">
+      <configuration name="Feature: verifyNews" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_validate_the_headline_news_retrieved_from_guardian_news_with_other_resources_on_google_(1) - 2019.09.26 at 21h 50m 37s.xml">
-      <configuration name="Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Launch_guardian_news_website - 2019.10.23 at 08h 56m 36s.xml">
+      <configuration name="Scenario: Launch guardian news website" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_validate_the_headline_news_retrieved_from_guardian_news_with_other_resources_on_google_(1) - 2019.09.26 at 21h 52m 27s.xml">
-      <configuration name="Scenario: To validate the headline news retrieved from guardian news with other resources on google (1)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="VerifyNewsRunner - 2019.09.26 at 18h 05m 41s.xml">
-      <configuration name="VerifyNewsRunner" configurationId="TestNG" />
+    <history-entry file="Scenario__Launch_guardian_news_website - 2019.10.23 at 09h 05m 06s.xml">
+      <configuration name="Scenario: Launch guardian news website" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="VerifyNewsRunner - 2019.09.26 at 21h 45m 07s.xml">
       <configuration name="VerifyNewsRunner" configurationId="TestNG" />
@@ -1102,6 +1122,9 @@
     <history-entry file="VerifyNewsRunner - 2019.09.27 at 08h 52m 47s.xml">
       <configuration name="VerifyNewsRunner" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="VerifyNewsRunner - 2019.10.23 at 09h 15m 08s.xml">
+      <configuration name="VerifyNewsRunner" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="verifyNewsRunner_(1) - 2019.09.24 at 20h 50m 25s.xml">
       <configuration name="verifyNewsRunner (1)" configurationId="TestNG" />
     </history-entry>
@@ -1110,7 +1133,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21869000" />
+    <option name="totallyTimeSpent" value="35242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1122,27 +1145,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1378" height="733" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5627178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5644599" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5641026" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78745645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4957265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25644916" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24659607" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1153,7 +1173,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5623932" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1197,57 +1219,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="145" column="53" lean-forward="false" selection-start-line="145" selection-start-column="53" selection-end-line="145" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/logs/applog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="68" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1265,7 +1236,7 @@
         <state relative-caret-position="1802">
           <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <marker date="1571818367986" expanded="true" signature="1773:1779" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1274,24 +1245,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2465">
           <caret line="145" column="53" lean-forward="false" selection-start-line="145" selection-start-column="53" selection-end-line="145" selection-end-column="53" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3102#3103#0" expanded="false" />
+            <element signature="e#3149#3150#0" expanded="false" />
+            <element signature="e#5001#5002#0" expanded="false" />
+            <element signature="e#5066#5067#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="115" lean-forward="false" selection-start-line="49" selection-start-column="115" selection-end-line="49" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="493">
             <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1301,26 +1270,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/verifyNews.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1346,7 +1300,7 @@
         <state relative-caret-position="1802">
           <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <marker date="1571818367986" expanded="true" signature="1773:1779" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1363,48 +1317,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2465">
           <caret line="145" column="53" lean-forward="false" selection-start-line="145" selection-start-column="53" selection-end-line="145" selection-end-column="53" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3102#3103#0" expanded="false" />
+            <element signature="e#3149#3150#0" expanded="false" />
+            <element signature="e#5001#5002#0" expanded="false" />
+            <element signature="e#5066#5067#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="115" lean-forward="false" selection-start-line="49" selection-start-column="115" selection-end-line="49" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/logs/applog.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="493">
             <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1433,13 +1370,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/utils/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/utils/DriverManager.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/grid/hub.bat" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1448,40 +1379,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/utils/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/utils/DriverFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/runners/verifyGoogleCrossbrowserRunner.java" />
     <entry file="file://$PROJECT_DIR$/reports/Tue_Sep_24_21_23_20_BST_2019_1.jpg" />
     <entry file="file://$PROJECT_DIR$/reports/Extent_Tue_Sep_24_21_29_58_BST_2019.html" />
     <entry file="file://$PROJECT_DIR$/reports/Extent_Tue_Sep_24_21_43_40_BST_2019.html" />
     <entry file="file://$PROJECT_DIR$/reports/Extent_Wed_Sep_25_19_27_56_BST_2019.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/extent_listeners/ExtentTestManager.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/Delete.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/logs/applog.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1498,71 +1408,88 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reports/Thu_Sep_26_21_31_48_BST_2019_1.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/runners/VerifyNewsRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/verifyNews.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/VerifyNewsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="106" column="58" lean-forward="false" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/Thu_Sep_26_21_52_25_BST_2019_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/Thu_Sep_26_21_52_25_BST_2019_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/reports/Extent_Thu_Sep_26_21_51_58_BST_2019.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="222">
+            <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reports/Extent_Thu_Sep_26_21_51_58_BST_2019.html">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/pagefactory/AjaxElementLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/runners/VerifyNewsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/Extent_Wed_Oct_23_08_35_00_BST_2019.html" />
+    <entry file="file://$PROJECT_DIR$/reports/Wed_Oct_23_08_35_53_BST_2019_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/properties/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/verifyNews.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Jpmc/page_objects/VerifyNewsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3102#3103#0" expanded="false" />
+            <element signature="e#3149#3150#0" expanded="false" />
+            <element signature="e#5001#5002#0" expanded="false" />
+            <element signature="e#5066#5067#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/Wed_Oct_23_08_56_33_BST_2019_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/Wed_Oct_23_08_54_16_BST_2019_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/BaseSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/Jpmc/step_definition/VerifyNewsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding>
+            <marker date="1571818367986" expanded="true" signature="1773:1779" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,7 @@
+com\Jpmc\page_objects\BasePage.class
+com\Jpmc\extent_listeners\ExtentManager.class
+com\Jpmc\utils\FileWriter.class
+com\Jpmc\extent_listeners\ExtentTestManager.class
+com\Jpmc\utils\DriverFactory.class
+com\Jpmc\utils\DriverManager.class
+com\Jpmc\page_objects\VerifyNewsPage.class

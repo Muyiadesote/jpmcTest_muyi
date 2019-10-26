@@ -24,7 +24,7 @@ public class VerifyNewsPage extends BasePage {
 
     // Web Elements
 
-    @FindBy(xpath = "//*[@id='top']/div[6]/div/div/div[2]/div[3]/button/span[2]")
+    @FindBy(css = "#top > div.site-message.js-site-message.js-double-site-message.site-message--banner.site-message--double-banner > div.js-engagement-banner-site-message.site-message--moment-banner.site-message--engagement-banner > div > div > div.site-message__copy.js-site-message-copy.u-cf > div.engagement-banner__close > button > span.inline-close-central.inline-icon > svg") //*[@id='top']/div[6]/div/div/div[2]/div[3]/button/span[2]
     private WebElement closeCookie;
 
     @FindBy(linkText = "News")
